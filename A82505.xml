@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An aditionall ordinance of the Lords &amp; Commons assembled in Parliament, for the better taking and expediting the accompts of the whole kingdome. Ordered by the Commons assembled in Parliament that this ordinance be forthwith printed and published. Hen. Elsynge. Cler. Parl. Dom. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82505</idno>
+            <idno type="STC">Wing E1177</idno>
+            <idno type="STC">Thomason E290_14</idno>
+            <idno type="STC">ESTC R200139</idno>
+            <idno type="EEBO-CITATION">99860944</idno>
+            <idno type="PROQUEST">99860944</idno>
+            <idno type="VID">113071</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82505)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113071)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E290[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An aditionall ordinance of the Lords &amp; Commons assembled in Parliament, for the better taking and expediting the accompts of the whole kingdome. Ordered by the Commons assembled in Parliament that this ordinance be forthwith printed and published. Hen. Elsynge. Cler. Parl. Dom. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.W. for Ed. Husband, printer for the Honourable House of Commons,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113071:1" rendition="simple:additions"/>
+            <p>AN ADITIONALL ORDINANCE OF THE Lords &amp; Commons ASSEMBLED IN PARLIAMENT, FOR The better taking and expedi<g ref="char:EOLhyphen"/>ting the Accompts of the whole Kingdome.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons aſſembled, in Parliament that this Ordinance be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen. Elſynge. Cler. Parl. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON. Printed by T.W. for ED. HUSBAND, Printer for the Honourable Houſe of Commons 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:113071:2"/>
+            <pb n="1" facs="tcp:113071:2"/>
+            <head>AN ADDITIONALL Ordinance for the better taking and expediting the Accompts of the whole Kingdome.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the better taking the Accompts of the whole Kingdome, and the more ſpeedy levying of ſuch ſummes of Money as are, or ſhall be due unto the Common-wealth upon ſuch Accompts as are, or ſhall be determined.</p>
+            <p>It is Ordered and Ordained by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament aſſembled, That the Committee for taking the Accompts of the whole Kingdome, and the ſeverall ſub-Committees of Accompts within their reſpective limits, ſhall have full Power and Authority, and are hereby Authorized to iſſue forth Warrants to
+<pb n="2" facs="tcp:113071:3"/>
+the High Conſtables, Conſtables, Petty-conſtables, and Headboroughs of every Hundred, Lath, Rape, Wa<g ref="char:EOLhyphen"/>pentake, Ward, and to the Church-wardens of every Pariſh, or any of them, or to any other Perſon or per<g ref="char:EOLhyphen"/>ſons under the degree of a Peere of this Realme, nor to any Member of the Houſe of Commons within the Limits aforeſaid, whom they ſhall thinke meete, there<g ref="char:EOLhyphen"/>by requiring the Perſons to whom the ſaid Warrants ſhall be directed, to make ſtrict and diligent enquirie in every Pariſh of this Kingdome within their ſeverall Precincts, what ſumme or ſummes of Money, Plate, Horſe, Armes, Ammunition, Houſe-hold ſtuffe, Goods of all ſorts, Rents and profits of Lands, Wood, Proviſions of all kinde, and Free quarter have beene re<g ref="char:EOLhyphen"/>ceived, taken, collected, raiſed, ſeized, or ſequeſtred within the ſaid Hundred, Lath, Rape, Wapentake, Ward and Pariſh, by way of voluntary Contribution, Tax, or otherwiſe, and by whom the ſame hath beene received, taken, collected, raiſed, ſeized, ſequeſtred, and to whom paid or delivered. And the ſaid perſons unto whom the ſaid Warrants ſhall be directed, ſhall give notice thereof in writing, and leave, or cauſe the ſame to be left, at every houſe within every reſpective Pariſh, to informe them of all ſuch ſumme or ſummes of Mo<g ref="char:EOLhyphen"/>ney, Plate, Horſe, Armes, Ammunition, Houſhold<g ref="char:EOLhyphen"/>ſtuffe, Goods, Rents, and profits of Lands, Wood, Pro<g ref="char:EOLhyphen"/>viſions of all ſorts, and free Quarter, that have beene re<g ref="char:EOLhyphen"/>ceived, taken, collected, raiſed, ſeized, or ſequeſtred by any perſon or perſons, and by whom paid, given, or con<g ref="char:EOLhyphen"/>tributed to any perſon or perſons whatſoever, for the uſe of the Common-wealth by way of Aſſeſſement or o<g ref="char:EOLhyphen"/>therwiſe,
+<pb n="3" facs="tcp:113071:3"/>
+within fifty dayes after perſonall notice left or given, under paine that every perſon or perſons, who ſhall wilfully or negligently faile to give in ſuch Infor<g ref="char:EOLhyphen"/>mation within the time aforeſaid, without rendring a juſt and reaſonable Cauſe of his or their fayler herein, ſhall from thenceforth be diſabled to demand the Bene<g ref="char:EOLhyphen"/>fit of the publique Faith for all ſuch Moneys, Plate, Horſe, Armes, Ammunition, Proviſions, Contributi<g ref="char:EOLhyphen"/>ons, free Quarter, as hee or they ſhall omit to informe of; And after ſuch information taken by the perſons to whom the ſaid Warrants ſhall be directed, the ſame ſhall be returned in writing to the ſaid Committee, for taking the Accompts of the whole Kingdome, or unto the ſub-Committee of Accompts reſpectively for the better inabling them to charge the ſaid Accomp<g ref="char:EOLhyphen"/>tants.</p>
+            <p>And whereas ſeverall ſequeſtrations have been un<g ref="char:EOLhyphen"/>warrantably, fraudulently and deceitfully diſcharged or let or ſold at under values by the ſeverall Committees or Officers for ſequeſtrations in the ſeverall Counties, Cities and other places of this Kingdome.</p>
+            <p>Be it Ordained that the Committee for the taking of the accompts of the whole Kingdome and the ſeve<g ref="char:EOLhyphen"/>rall ſub-Committees for the ſaid accompts reſpective<g ref="char:EOLhyphen"/>ly, ſhall have power and are hereby authoriſed to en<g ref="char:EOLhyphen"/>quire thereof by Oath, and if they ſhall find the ſame to be unwarrantably, fraudulently, and deceitfully diſ<g ref="char:EOLhyphen"/>charged, underſold or underlet, they ſhall further enquire by what wayes and means, and by whom the ſaid diſcharge, underſale, or underletting, was procured, and ſuch perſon or perſons as ſhalbe found faulty in the premiſſes, ſhall make ſuch ſatisfaction to the Com<g ref="char:EOLhyphen"/>mon-wealth
+<pb n="4" facs="tcp:113071:4"/>
+proportionable to their offence, as the Committee of accompts for the Kingdom, or any five of them, ſhall adjudge and determine, ſo as the ſaid per<g ref="char:EOLhyphen"/>ſons be not Peers of this Realm, or Members of the Houſe of Commons.</p>
+            <p>And be it further Ordained that the ſaid Committee for taking of the accompts of the whole Kingdome, and the ſub-Committees for the ſaid accompts reſpective<g ref="char:EOLhyphen"/>ly, ſhall have authority and they are hereby authori<g ref="char:EOLhyphen"/>zed to inquire of all perſons whatſoever, that have or ſhall any way conceale and detaine the Eſtates, Goods, and Chattells of any perſon or perſons ſequeſtred or ſequeſtrable, and ſhall charge them for the ſame as accomptants to all intents and purpoſes, ſo as the ſaid perſons be not Peers, of this Realm or Members of the Houſe of Commons.</p>
+            <p>And whereas ſeverall accomptants to whom there is no allowance given by act, Ordinance, or order of one or both Houſes of Parliament, demand upon their acco<g ref="char:cmbAbbrStroke">̄</g>pts ſeverall allowances: Be it Ordained that the ſaid Com<g ref="char:EOLhyphen"/>mittee for taking the accompts of the whole Kingdome ſhall have power and authority, and they or any five of them are hereby authoriſed to make ſuch reaſonable allowances unto the ſaid accomptants for their charges and paines as they ſhall thinke meet, the ſaid allowan<g ref="char:EOLhyphen"/>ces not exceeding a penny in the pound, for every pound received by ſuch accomptant.</p>
+            <p>And be it further Ordered and Ordained, that every perſon or perſons found in Arreare upon any Accompt to be determined by the ſaid Committee, or any five or more of them, ſhall immediately upon determination of the ſaid Accompt and ſignification, or notice there<g ref="char:EOLhyphen"/>of
+<pb n="5" facs="tcp:113071:4"/>
+given to the ſeverall perſon and perſons aforeſaid, or left in writing at his or their Houſe, or uſuall place of aboad by the ſaid Committee, or any five or more of them, pay in, or cauſe to be paid unto the Chamberlain of the City of <hi>London</hi> for the time being, or unto ſuch particular Treaſurers, as by any former Act or Ordi<g ref="char:EOLhyphen"/>nance are appointed to receive the ſame, and in caſe no Treaſurers are already appointed, then unto ſuch Treaſurer as ſhall by vertue of this Ordinance be made in every County in this Kingdome, all ſuch ſumme and ſummes of money as ſhall be found and certified to be Arreare, and by him or them due and owing upon their ſaid Accompts, or otherwiſe give ſuch ſufficient ſecuri<g ref="char:EOLhyphen"/>ty for the payment thereof, in manner and forme afore<g ref="char:EOLhyphen"/>ſaid, within the ſpace of forty dayes next after the ſaid Certificate, as by the ſaid Committee for taking the accompts of the whole Kingdome, or any five or more of them ſhall be approved of. And for default thereof, the ſaid perſon or perſons neglecting or refuſing to pay, or ſecure the ſaid ſums and arreeres, as aforeſaid (not be<g ref="char:EOLhyphen"/>ing a Peere or Aſſiſtant, or Officer of the houſe of Peers, or Member or Officer of the houſe of Commons) ſhall be committed by the ſaid Committee, or any five or more of them, unto ſuch priſon as they ſhall thinke fit, there to remain without Baile or mainprize, untill he or they ſhall pay in the ſeverall ſummes of money, or give ſuch ſecurity for payment thereof, as aforeſaid. And if any ſuch perſon or perſons be Peers, or Aſſiſtants, or Of<g ref="char:EOLhyphen"/>ficers of either Houſe of Parliament, then their names to be certified to ſuch Houſe as they ſhall belong unto reſpectively, that ſuch further courſe may bee taken therein as ſhall ſeeme meet.</p>
+            <p>
+               <pb n="6" facs="tcp:113071:5"/>
+And be it further Ordained, That if it ſhall appear to the ſaid Committee, or ſaid Sub-Committees, by the acknowledgement of the Accomptant, or otherwiſe, that there remains any Sum of Money or Goods in the hands or poſſeſſion of any Accomptant (not being a Peer, or Aſſiſtant or Officer of the Houſe of Peers, or Member or Officer of the Houſe of Commons) or any other perſon or perſons to his uſe; that the ſaid Committee, or any five or more of them, or any of the ſaid Sub-committee, or any five or more of them, ſhall, before the ſaid Accompt determined, have hereby pow<g ref="char:EOLhyphen"/>er to order the payment of the ſame Moneys, and to make ſale of all ſuch goods to the uſe and benefit of the Common-wealth, within ſuch time as ſhall be by them limited, or, in default thereof, to proceed againſt the ſaid Accomptants as in the precedent Clauſe is directed, againſt ſuch perſons whoſe Accompts are determined.</p>
+            <p>And be it further Ordained, That if it ſhall appear by proof to the ſaid Committee of Accompts, or any Sub-Committee of Accompts, that any perſon or per<g ref="char:EOLhyphen"/>ſons who is accomptable by vertue of the Ordinances for taking of the Accompts of the whole Kingdom, or any of them, ſhall go about or endeavour to depart the Kingdom, or convey away, hide, or obſcure his or their Eſtates, to prevent the payment of what ſhall be found juſtly due from him or them unto the Common-wealth; that then the ſaid Committee of Accompts, or Sub-Committee in every County, or any five or more of them reſpectively, ſhall and may, by Warrant under their hands to be made to ſuch perſon or perſons as they ſhall think fit, cauſe the perſon, and eſtate of ſuch perſon or perſons (not being a Peer, or Aſſiſtant
+<pb n="7" facs="tcp:113071:5"/>
+or Officer of the Houſe of Peers, or Member or Offi<g ref="char:EOLhyphen"/>cer of the Houſe of Commons) to be ſeized and ſecu<g ref="char:EOLhyphen"/>red, untill ſuch time as he or they ſhall put in good and ſufficient Security to be taken by the ſaid Committee, or Sub-committee, or any five or more of them reſpe<g ref="char:EOLhyphen"/>ctively, that he or they ſhall and will truely pay and ſatisfie all ſuch ſum or ſums of Money as ſhall be found due from him or them unto the Common-wealth, up<g ref="char:EOLhyphen"/>on the determining of his or their Accompts.</p>
+            <p>And be it further Ordained, That if any perſon or perſons (not being a Peer, or Aſſiſtant or Officer of the Houſe of Peers, or Member or Officer of the Houſe of Commons) ſhall be found indebted and arrear up<g ref="char:EOLhyphen"/>on the foot of his or their Accompt, and ſhall be im<g ref="char:EOLhyphen"/>priſoned, or otherwiſe abſent himſelf from the place of his uſuall abode or dwelling, by the ſpace of one moneth after notice of his or their Arrear given accor<g ref="char:EOLhyphen"/>ding to this Ordinance; that then the Committee for taking the Accompts of the whole Kingdom, or Sub-committees reſpectively, ſhall and may ſend for any per<g ref="char:EOLhyphen"/>ſon or perſons in whoſe hands, power, or knowledge the Eſtate reall or perſonall of ſuch perſon ſo found in arrear ſhall be, and examine the ſaid perſon or per<g ref="char:EOLhyphen"/>ſons upon Oath (which, by vertue of the ſaid Ordi<g ref="char:EOLhyphen"/>nances, the ſaid Committee or Sub-committee reſpe<g ref="char:EOLhyphen"/>ctively ſhall have power to adminiſter) for the diſcove<g ref="char:EOLhyphen"/>ry of the Eſtate reall or perſonall of ſuch perſon or per<g ref="char:EOLhyphen"/>ſons ſo indebted: and having diſcovered the ſame, the ſaid Committee of Accompts, or any five or more of them, ſhall have power to nominate ſome fit perſons who ſhall hereby have power, and are authorized to ſeize and make ſale of the Eſtate reall and perſonall,
+<pb n="8" facs="tcp:113071:6"/>
+Rights and Credits of ſuch perſon ſo found in arrear, in as ample manner as is uſuall in the caſe of Bankrupts, the ſaid ſale to be by Deed inrolled in the Court of Chancery, and to be good and effectuall in Law, to all Intents and Purpoſes, againſt the ſaid party ſo found in arrear, and all claiming by, from, and under him, with<g ref="char:EOLhyphen"/>out good and valuable conſideration; and to cauſe ſuch Moneys ſo raiſed to be paid to the reſpective Treaſurers in this Ordinance named.</p>
+            <p>And be it further Ordained, That the Sub-commit<g ref="char:EOLhyphen"/>tee of every County of this Kingdom, or the major part of them, ſhall from time to time have power and authority to name one fit and able perſon in every County, to be Treaſurer of that County; and the ſaid perſon ſo named being approved of and allowed by the Committee for taking the Accompts of the whole Kingdom, ſhall receive the ſeverall ſums of Money that ſhall be found arrear from any perſon or perſons within the ſaid County, and ſhall disburſe the ſame as the ſame is or ſhall be Ordered by the Houſes of Parli<g ref="char:EOLhyphen"/>ment: And the ſaid Treaſurer ſhall exhibite upon his Oath unto the ſaid Sub-committee a Bill of ſuch ne<g ref="char:EOLhyphen"/>ceſſary charges as he ſhall be at in the receiving, paying, carrying of the Money received by him according to direction of ſuch Order or Orders; which charges ſo by him disburſed, he ſhall and may lawfully retain, up<g ref="char:EOLhyphen"/>on his allowance of the ſaid Bill.</p>
+            <p>And be it further Ordered and Ordained by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That if any perſon or perſons ſhall finde him or themſelves agrieved with the determinati<g ref="char:EOLhyphen"/>on of any ſuch Accompt as aforeſaid, then every ſuch perſon and perſons ſo agrieved, after he or they have
+<pb n="9" facs="tcp:113071:6"/>
+depoſited, or ſufficiently ſecured, in ſuch ſort as the Court of Chancery ſhall think fit, ſuch ſum and ſums of Money as are found in arrear, and by him or them due and owing upon his or their ſaid Accompt, unto the Chamberlain; of the Citie of <hi>London</hi> for the time being, ſhall and may, within thirty days after ſuch Accompt ſhall be determined, and notice thereof to him or them given or left, and ſuch payment or ſecu<g ref="char:EOLhyphen"/>ring of the ſaid Money as aforeſaid, exhibite his or their Appeal into the Court of Chancery, for redreſſe therein; and that upon the ſaid Appeal, the ſaid Court of Chancery may, by ſuch ways and means as to the Lord Keeper or Commiſſioners of the Great Seal for the time being ſhall ſeem meet (the circumſtances of the caſe conſidered) within ſix moneths after the deli<g ref="char:EOLhyphen"/>very of the ſaid Appeal, in a Summary way, without formality of proceedings, proceed to the examination, hearing and determining thereof, and, upon hearing thereof, ſhall and may adde or diminiſh, alter or enlarge the ſaid determining of the ſaid Accompt, as to them ſhall be thought to ſtand with equity and good conſci<g ref="char:EOLhyphen"/>ence; and ſhall and may tax and award ſuch perſon and perſons as they ſhall finde to complain or appeal with<g ref="char:EOLhyphen"/>out any juſt or reaſonable cauſe, to pay ſuch coſts and ſums of Money as they in their diſcretions ſhall think fit, to the uſe of the Common-wealth, unto the Cham<g ref="char:EOLhyphen"/>berlain of the Citie of <hi>London</hi> aforeſaid; and for neg<g ref="char:EOLhyphen"/>lect or refuſall thereof, to commit the ſaid perſon or perſons to priſon, untill they ſhall pay the ſame: And that the ſaid ſums of Money ſo paid unto the Cham<g ref="char:EOLhyphen"/>berlain of the Citie of <hi>London</hi> upon the ſaid, Appeal, ſhall not be diſpoſed of untill the ſaid Appeal be de<g ref="char:EOLhyphen"/>termined,
+<pb n="10" facs="tcp:113071:7"/>
+and ſo much ſhall be adjudged againſt the Appellant, to be paid unto ſuch particular Treaſurers as are appointed to receive the ſame as aforeſaid, or to be diſpoſed as by Order of the ſaid Houſes of Parlia<g ref="char:EOLhyphen"/>ment ſhall be appointed and directed: And the party that ſhall proſecute the Suit for the Common-wealth, ſhall have full coſts allowed unto him, in caſe he that ſhall appeal ſhall not prevail upon his Appeal.</p>
+            <p>And further it is hereby Ordered and Ordained by the ſaid Lords and Commons, That all perſons em<g ref="char:EOLhyphen"/>ployed or to be employed in taking of the ſaid Ac<g ref="char:EOLhyphen"/>compts by vertue of the aforeſaid Ordinances, their and every of their Officers and neceſſary Attendants, and their and every of their horſes, ſhall be free from preſſing, and ſhall not be ſeized or taken by vertue of any Order or Ordinance, for the ſervice of the State, ſo long as they or ahy of them are employed in or a<g ref="char:EOLhyphen"/>bout the taking of the ſaid Accompts.</p>
+            <p>And be it further Ordained, That the Officers and other perſons employed by the ſeverall ſub-committees in each County and Citie, ſhall have ſuch reaſonable and fitting Allowances as ſhall be thought fit by the ſaid ſub-committees, or the major number of them, and ſhall be approved of by the Committee for taking the Accompts of the whole Kingdom, or any five of them.</p>
+            <p>And be it further ordained, That if any perſon or perſons (not being a Peer of this Realm, Aſſiſtant or Officer of the Houſe of Peers, or Member or Offi<g ref="char:EOLhyphen"/>cer of the Houſe of Commons) that ſhall be ſum<g ref="char:EOLhyphen"/>moned to appear before the Committee for taking the Accompts of the whole Kingdom, or the ſaid Sub-committees
+<pb n="11" facs="tcp:113071:7"/>
+reſpectively, ſhall wilfully neglect or re<g ref="char:EOLhyphen"/>fuſe to appear before the ſaid Committee or ſub-com<g ref="char:EOLhyphen"/>mittee, and ſhall afterwards, for ſuch his neglect or refuſall, be ſent for, and attached by their Meſſenger or Meſſengers, That in ſuch caſe it ſhall and may be law<g ref="char:EOLhyphen"/>full for the ſaid Meſſenger ſo attaching the ſaid perſon or perſons, to take of every ſuch perſon the ſum of two pence for every mile he ſhall go or ride for the ſaid perſon or perſons ſo offending, and Twelve pence for the Attachment of the ſaid perſon offending.</p>
+            <p>And be it further Ordained, That it ſhall and may be lawfull for the Regiſter, Accomptant, or Clerk to the ſaid Committee for the taking of the Accompts of the whole Kingdom, and their Sub-committees reſpe<g ref="char:EOLhyphen"/>ctively, to take from every perſon that ſhall be found in arrear Three pence for every Sheet that ſhall be written of every Examination or Accompt, and Twelve pence for every Order which the ſaid perſon ſo found in arrear ſhall deſire to have written or copied out for his benefit.</p>
+            <p>And be it further Ordained, That the ſaid Com<g ref="char:EOLhyphen"/>mittee for the taking of the Accompts of the whole Kingdom, and the ſaid Sub-committees reſpectively, or any two of them, ſhall have power and authority to adminiſter to every Regiſter, Accomptant, Meſſenger, or other Officer or perſon employed, an Oath for their and every of their faithfull demeanour, the Tenour whereof followeth.</p>
+            <q>
+               <pb n="12" facs="tcp:113071:8"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>I <hi>A. B.</hi> do ſwear, That, ac<g ref="char:EOLhyphen"/>cording to my beſt Skill and Judgement, I ſhall faithfully, di<g ref="char:EOLhyphen"/>ligently, and truely demean my ſelf in the Office of <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> or other Employment where<g ref="char:EOLhyphen"/>in I ſhall be employed by the Com<g ref="char:EOLhyphen"/>mittee for the taking of the Ac<g ref="char:EOLhyphen"/>compts of the whole Kingdom, or by any Sub-Committee for taking the ſaid Accompts.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And it is further Ordained, That the Sub-commit<g ref="char:EOLhyphen"/>tee of Accompts of each reſpective County and City, or any five or more of them, ſhall have full power and authority to ſend into any other County or City, and to cauſe all perſons accomptable for any Moneys or Goods received or taken in the County of which they are Sub-committees (not being a Peer, Aſſiſtant or Officer of the Houſe of Peers, or Member or Offi<g ref="char:EOLhyphen"/>cer of the Houſe of Commons) to appear before them, for the examination of their former Accompts, accor<g ref="char:EOLhyphen"/>ding to this and the ſeverall Ordinances, unleſſe the Committee for taking the Accompts of the whole Kingdom ſhall give order to the contrary.</p>
+            <p>
+               <pb n="13" facs="tcp:113071:8"/>
+And be it further Ordained, That if any perſon or perſons, named or to be named, of any Sub-com<g ref="char:EOLhyphen"/>mittee of Accompts, according to the ſaid ſeverall Ordinances of Accompts, or which ſhall be named Treaſurers according to this Ordinance, ſhall refuſe to take upon them the ſaid reſpective Employments, or to take the Nationall-Covenant, upon certificate of the ſeverall names to the Houſe of Commons, by the Committee for taking the Accompts of the whole King<g ref="char:EOLhyphen"/>dom, they ſhall receive ſuch puniſhment as the high Court of Parliament ſhall think fit.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
